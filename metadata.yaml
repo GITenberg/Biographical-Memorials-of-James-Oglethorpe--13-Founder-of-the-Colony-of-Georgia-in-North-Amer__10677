@@ -1,0 +1,29 @@
+_repo: Biographical-Memorials-of-James-Oglethorpe--13-Founder-of-the-Colony-of-Georgia-in-North-Amer__10677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, Thaddeus Mason
+    aliases:
+    - Harris, Thadeus Mason
+    - Harris, T. M. (Thaddeus Mason)
+    birthdate: 1768
+    deathdate: 1842
+    gutenberg_agent_id: '3631'
+    url: http://www.gutenberg.org/2009/agents/3631
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Oglethorpe, James Edward, 1696-1785'
+- !lcsh 'Georgia -- History -- Colonial period, ca. 1600-1775'
+- GITenberg
+title: "Biographical Memorials of James Oglethorpe\r\nFounder of the Colony of Georgia,\
+  \ in North America."
+url: http://www.gutenberg.org/ebooks/10677
