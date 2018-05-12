@@ -1,5 +1,8 @@
 _repo: Biographical-Memorials-of-James-Oglethorpe--13-Founder-of-the-Colony-of-Georgia-in-North-Amer__10677
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harris, Thaddeus Mason
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3631'
     url: http://www.gutenberg.org/2009/agents/3631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10677#Biographical-Memorials-of-James-Oglethorpe--13-Founder-of-the-Colony-of-Georgia-in-North-Amer_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
